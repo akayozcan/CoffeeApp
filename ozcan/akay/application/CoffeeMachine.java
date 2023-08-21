@@ -1,6 +1,9 @@
 package ozcan.akay.application;
 
-import java.util.*;
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Scanner;
+import java.util.IllegalFormatException;
 
 /**
  * This class represents a Coffee Machine application that allows users to select and order coffee drinks.
